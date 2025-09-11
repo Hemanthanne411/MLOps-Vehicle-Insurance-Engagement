@@ -11,7 +11,7 @@ COPY . /app
 RUN pip install -r requirements.txt
 
 # Exposing the port FastAPI will run on
-#SET port to 4000 
+#SET port to 4000 final
 EXPOSE 4000
 
 # Command to run the FastAPI app
