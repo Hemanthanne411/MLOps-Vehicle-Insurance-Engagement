@@ -12,8 +12,6 @@
 #     logging.info(e)
 #     raise MyException(e, sys) from e
 from src.pipline.training_pipeline import TrainPipeline
-import os
-from src.logger import logging
 
 pipline = TrainPipeline()
 pipline.run_pipeline()
