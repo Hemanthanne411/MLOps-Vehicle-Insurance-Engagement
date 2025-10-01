@@ -13,7 +13,7 @@ from src.constants import APP_HOST, APP_PORT
 from src.pipline.prediction_pipeline import VehicleData, VehicleDataClassifier
 from src.pipline.training_pipeline import TrainPipeline
 
-# Initialize FastAPI application
+# Initializing FastAPI application
 app = FastAPI()
 
 # Mount the 'static' directory for serving static files (like CSS)
