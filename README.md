@@ -85,4 +85,4 @@ This is the central workflow:
 
 ## 🙏 Acknowledgments
 
-I would like to express my sincere gratitude to ___ for their exceptional guidance and mentorship throughout the development of this project. Their insights and profound knowledge were instrumental in helping me grasp complex MLOps concepts and build a truly robust, production-ready system. This project is a direct reflection of the invaluable lessons learned under their tutelage.
+I would like to express my sincere gratitude to sir Viskash Das for their exceptional guidance and mentorship throughout the development of this project. Their insights and profound knowledge were instrumental in helping me grasp complex MLOps concepts and build a truly robust, production-ready system. This project is a direct reflection of the invaluable lessons learned under their tutelage.
