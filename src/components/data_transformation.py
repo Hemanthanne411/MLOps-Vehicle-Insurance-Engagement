@@ -109,6 +109,7 @@ class DataTransformation:
         """
         try:
             logging.info("Data Transformation Started !!!")
+            # Checking data validation status, if not valid raise exception
             if not self.data_validation_artifact.validation_status:
                 raise Exception(self.data_validation_artifact.message)
 
